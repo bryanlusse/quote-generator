@@ -1,0 +1,52 @@
+.max-height {
+  min-height: 100vh;
+}
+body {
+  background: #17252A;
+}
+.quote-container {
+  background: #DEF2F1;
+}
+#generate-btn {
+  color: white !important;
+  background: #3AAFA9 !important;
+  border-color: #3AAFA9 !important;
+  cursor: pointer;
+  font-size: 1.5rem;
+  padding: 0.5rem 1rem;
+}
+#generate-btn:hover {
+  background: #b09e99 !important;
+  border-color: #b09e99 !important;
+  color: #333333 !important;
+}
+.author {
+  color: #3AAFA9;
+}
+
+.right {
+  background: #DEF2F1;
+  text-align: right;
+  position: absolute;
+  bottom: 111px;
+  left: 433px;
+  padding-left: 5px;
+
+}
+
+#icon1 {
+  background: #DEF2F1;
+  position: absolute;
+  top: 145px;
+  left: 45px;
+  padding-right: 5px;
+}
+
+.cont {
+  padding-right: 50px;
+  padding-bottom: 70px;
+  padding-top: 70px;
+
+  padding-left: 80px;
+  border: 10px solid black;
+}
